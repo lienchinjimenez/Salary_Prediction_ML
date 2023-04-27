@@ -46,7 +46,7 @@ Independent variables X:
 - Know when to use classification or regression methods.
 - Use the metrics corresponding to the algorithms used.
 
-## General analysis.
+## General analysis
 
 1. Conduct an analysis of the variables in the dataset, such as histograms, boxplots, etc. 
 2. Treatment of missing values, outliers, missing values, etc. 
