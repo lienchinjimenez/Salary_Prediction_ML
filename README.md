@@ -24,7 +24,7 @@ Independent variables X:
 
 - Age: continuous.
 - Work class: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
-- fnlwgt:continuous.
+- fnlwgt: continuous.
 - Education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool .
 - Education-num: continuous.
 - Marital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.
@@ -35,7 +35,7 @@ Independent variables X:
 - Capital-gain: continuous.
 - Capital-loss: continuous.
 - Hours-per-week: continuous.
-- Native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holland-Netherlands.
+- Native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US (Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holland-Netherlands.
 
 ## Objectives of this project
 
@@ -54,8 +54,5 @@ Independent variables X:
 4. Division of data into Train and Test.
 5. Treatment of the categorical variables by converting them into numerical variables by means of dummies.
 6. Normalisation of the data.
-7. Implementation of:
-  a. Logistic regression
-  b. K nearest neighbours
-  c. Decision tree
+7. Implementation of: Logistic regression, K nearest neighbours, Decision tree.
 8. Evaluation of each model.
