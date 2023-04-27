@@ -9,7 +9,7 @@ The objective of the problem is to predict if a person has a salary of more than
 
 We made use of the adult data set. This data set comes from the following University of California Irvine Track (Url:https://archive.ics.uci.edu/ml/datasets/Census+Income)
 
-## Data set description:
+## Dataset description:
 
 It has a total of 14 predictor variables X and a continuous variable to predict Y.
 The total number of samples is 32561 people.
