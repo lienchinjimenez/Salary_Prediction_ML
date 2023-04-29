@@ -1,7 +1,7 @@
 # Machine Learning Project
 
 This project was carried out by a team of four people during the Data Science Master's program at Assembler Institute in the October 2022/23 promotion.
-It was the first project of the data science module in **Assembler's Data Science** master's degree supervised and corrected by Juan Manuel Moreno.
+It was the first project of the data science module in **Assembler's Data Science** master's degree. It was supervised and corrected by Juan Manuel Moreno.
 
 ## Introduction
 
