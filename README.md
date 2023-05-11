@@ -1,13 +1,6 @@
-# Machine Learning Project
+# Salary Prediction Project
 
-This project was carried out by a team of four people during the Data Science Master's program at Assembler Institute in the October 2022/23 promotion.
-It was the first project of the data science module in **Assembler's Data Science** master's degree. It was supervised and corrected by Juan Manuel Moreno.
-
-## Introduction
-
-The objective of the problem is to predict if a person has a salary of more than 50 thousand dollars per year or not, based on their characteristics.
-
-We made use of the adult data set. This data set comes from the following University of California Irvine Track (Url:https://archive.ics.uci.edu/ml/datasets/Census+Income)
+The objective of the project was to predict whether a person earns more than $50,000 per year based on their characteristics, using the adult dataset from the University of California Irvine. The project involved data preprocessing, handling missing and outlier values, differentiating supervised learning models, and analyzing variables through histograms and box plots. We implemented logistic regression, K nearest neighbors, and decision tree models and evaluated their performance.
 
 ## Dataset description:
 
@@ -37,22 +30,3 @@ Independent variables X:
 - Hours-per-week: continuous.
 - Native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US (Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holland-Netherlands.
 
-## Objectives of this project
-
-- Correctly treat the characteristics of a data set according to its type (numeric, categorical).
-- Transform data to remove outliers, code categorical features, or create new columns.
-- Handle null values.
-- Differentiate the main models of supervised learning.
-- Know when to use classification or regression methods.
-- Use the metrics corresponding to the algorithms used.
-
-## General analysis
-
-1. Conduct an analysis of the variables in the dataset, such as histograms, boxplots, etc. 
-2. Treatment of missing values, outliers, missing values, etc. 
-3. Removal of necessary variables.
-4. Division of data into Train and Test.
-5. Treatment of the categorical variables by converting them into numerical variables by means of dummies.
-6. Normalisation of the data.
-7. Implementation of: Logistic regression, K nearest neighbours, Decision tree.
-8. Evaluation of each model.
